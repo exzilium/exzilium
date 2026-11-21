@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @exzilium
-- 🔄 I'm a non-technical L4 program manager who likes to dabble in personal projects.
+- 🔄 I'm a non-technical program manager who likes to dabble in personal projects.
 - Appreciate you!
 
 <!---
